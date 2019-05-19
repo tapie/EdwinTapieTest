@@ -3,7 +3,7 @@
 * EntityFrameworkCore
 * Logging
 
-#Tecnologías Front End
+# Tecnologías Front End
 * Angular 5
 * Bootstrap
 * Jquery
@@ -12,7 +12,7 @@
 # Base de Datos
 * Sql Server Express 2017
 
-#Configuración y ejecución
+# Configuración y ejecución
 La aplicación fué desarrollada en Visual Studio 2017 y contiene 2 Proyectos:
 1. 	EdwinTest.Services:
 	Éste proyecto contiene lo que corresponde al backend, tiene las controladoras Web Api necesarias para poder presentar la prueba.
