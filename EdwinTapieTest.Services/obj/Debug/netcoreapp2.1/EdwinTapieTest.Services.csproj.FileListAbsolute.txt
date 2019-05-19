@@ -1,0 +1,13 @@
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\bin\Debug\netcoreapp2.1\EdwinTapieTest.Services.deps.json
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\bin\Debug\netcoreapp2.1\EdwinTapieTest.Services.runtimeconfig.json
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\bin\Debug\netcoreapp2.1\EdwinTapieTest.Services.runtimeconfig.dev.json
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\bin\Debug\netcoreapp2.1\EdwinTapieTest.Services.dll
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\bin\Debug\netcoreapp2.1\EdwinTapieTest.Services.pdb
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\obj\Debug\netcoreapp2.1\EdwinTapieTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\obj\Debug\netcoreapp2.1\EdwinTapieTest.Services.RazorAssemblyInfo.cache
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\obj\Debug\netcoreapp2.1\EdwinTapieTest.Services.RazorAssemblyInfo.cs
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\obj\Debug\netcoreapp2.1\EdwinTapieTest.Services.AssemblyInfoInputs.cache
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\obj\Debug\netcoreapp2.1\EdwinTapieTest.Services.AssemblyInfo.cs
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\obj\Debug\netcoreapp2.1\EdwinTapieTest.Services.RazorTargetAssemblyInfo.cache
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\obj\Debug\netcoreapp2.1\EdwinTapieTest.Services.dll
+C:\Users\Tapie-PC\source\repos\EdwinTapieTest\EdwinTapieTest.Services\obj\Debug\netcoreapp2.1\EdwinTapieTest.Services.pdb

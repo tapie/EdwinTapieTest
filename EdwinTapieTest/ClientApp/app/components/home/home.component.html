@@ -1,0 +1,45 @@
+<h1>Hello, UruIT!</h1>
+<h3>Welcome to Game Of Drones:</h3>
+
+<div class="container">
+    <h4>Please Enter Player's Names</h4>
+    <form class="center-block" [formGroup]="homeForm" (ngSubmit)="next()" novalidate>
+        <div class="form-group">
+            <div class="col-lg-7">
+                <label>Player One</label>
+                <input type="text" class="form-control" formControlName="playerOneName" />
+                <div *ngIf="playerOneName.invalid && (playerOneName.dirty || playerOneName.touched)"
+                     class="text-danger">
+                    <div *ngIf="playerOneName.errors.required">
+                        Player one name is required.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-lg-7">
+                <br />
+                <label>Player Two</label>
+                <input type="text" class="form-control" formControlName="playerTwoName" />
+                <div *ngIf="playerTwoName.invalid && (playerTwoName.dirty || playerTwoName.touched)"
+                     class="text-danger">
+                    <div *ngIf="playerTwoName.errors.required">
+                        Player two name is required.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-lg-7">
+                <br />
+                <button type="submit" class="btn btn-primary col-md-4" [disabled]="!homeForm.valid">Start</button>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-lg-7">
+                <br />
+                <div class="alert-danger" [hidden]="!hasError">{{errorMessage}}</div>
+            </div>
+        </div>
+    </form>
+</div>
